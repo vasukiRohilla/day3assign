@@ -1,1 +1,3 @@
-hekkoiowefkenfkerupadcwkruwiqrncruwiu
+class a{
+
+}
